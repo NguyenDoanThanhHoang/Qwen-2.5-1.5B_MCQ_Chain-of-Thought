@@ -30,5 +30,5 @@ Notebook sẽ tự động thực hiện các bước sau:
 6. **Train DPO**: Tối ưu hóa mô hình với DPO.
 7. **Evaluate**: Đánh giá và so sánh kết quả (Base vs SFT vs DPO).
 
----
+
 
